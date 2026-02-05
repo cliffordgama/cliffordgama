@@ -8,7 +8,7 @@ to Django and a member of its [Triage and Review Team](https://www.djangoproject
 
 [DSF member of the month](https://www.djangoproject.com/weblog/2025/dec/31/dsf-member-of-the-month-clifford-gama) for December 2025.
 
-### Selected work
+### Recent Blog Posts
 
 - [How to speed up your structured WeasyPrint PDF generation](https://cliffordgama.com/tech/speed-up-weasyprint-pdf-generation/)
 
