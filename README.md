@@ -11,6 +11,8 @@ to Django and a member of its [Triage and Review Team](https://www.djangoproject
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Making Django unique constraints case-insensitive &lpar;with no downtime&rpar;](https://cliffordgama.com/tech/django-case-insensitive-unique-constraints)
+- [How to speed up your structured WeasyPrint PDF generation](https://cliffordgama.com/tech/speed-up-weasyprint-pdf-generation)
 <!-- BLOG-POST-LIST:END -->
 
 ### Available for hire
