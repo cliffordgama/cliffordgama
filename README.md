@@ -10,7 +10,8 @@ to Django and a member of its [Triage and Review Team](https://www.djangoproject
 
 ### Recent Blog Posts
 
-- [How to speed up your structured WeasyPrint PDF generation](https://cliffordgama.com/tech/speed-up-weasyprint-pdf-generation/)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### Available for hire
 
