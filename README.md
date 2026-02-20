@@ -14,13 +14,3 @@ to Django and a member of its [Triage and Review Team](https://www.djangoproject
 - [Making Django unique constraints case-insensitive &lpar;with no downtime&rpar;](https://cliffordgama.com/tech/django-case-insensitive-unique-constraints)
 - [How to speed up your structured WeasyPrint PDF generation](https://cliffordgama.com/tech/speed-up-weasyprint-pdf-generation)
 <!-- BLOG-POST-LIST:END -->
-
-### Available for hire
-
-I'm available for paid freelance and contract work, especially:
-- Python and Django development
-- Backend systems and automation
-- PDF data extraction, and PDF generation
-- Technical writing and documentation
-
-You can reach me at me@cliffordgama.com.
